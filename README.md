@@ -29,3 +29,6 @@ Cream, burgundy, peach and charcoal are proposed website colours inspired by the
 - Semantic landmarks and a skip link
 - Keyboard-accessible mobile menu and poster modal (Escape closes it, focus returns to the poster)
 - Visible focus styles and reduced-motion support
+
+## Deployment
+Deployed on Vercel from the main branch. Vercel detects Vite automatically: build command npm run build, output directory dist. Every push to main triggers a new deployment.
