@@ -14,3 +14,9 @@ React, Vite, plain CSS with variables, Lucide icons. No backend.
 ## Build
     npm run build
     npm run preview
+
+## Project structure
+- src/data.js holds the repeated content: initiatives, posters and links
+- src/components has one file per page section
+- src/index.css holds the design system and all styles
+- public/images has the six official Salaah posters
