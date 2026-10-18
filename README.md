@@ -10,3 +10,7 @@ React, Vite, plain CSS with variables, Lucide icons. No backend.
 ## Run locally
     npm install
     npm run dev
+
+## Build
+    npm run build
+    npm run preview
