@@ -24,3 +24,8 @@ React, Vite, plain CSS with variables, Lucide icons. No backend.
 ## Design system
 Colours, fonts and spacing are CSS variables at the top of src/index.css.
 Cream, burgundy, peach and charcoal are proposed website colours inspired by the Salaah posters, not official brand codes.
+
+## Accessibility
+- Semantic landmarks and a skip link
+- Keyboard-accessible mobile menu and poster modal (Escape closes it, focus returns to the poster)
+- Visible focus styles and reduced-motion support
