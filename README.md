@@ -20,3 +20,7 @@ React, Vite, plain CSS with variables, Lucide icons. No backend.
 - src/components has one file per page section
 - src/index.css holds the design system and all styles
 - public/images has the six official Salaah posters
+
+## Design system
+Colours, fonts and spacing are CSS variables at the top of src/index.css.
+Cream, burgundy, peach and charcoal are proposed website colours inspired by the Salaah posters, not official brand codes.
